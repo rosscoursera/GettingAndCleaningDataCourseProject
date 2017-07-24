@@ -4,6 +4,11 @@ This script summarizes the UCI HAR data by combining the training and test data 
 
 The result is an output table containing aggregates of aggregates.
 
+## Data Sources
+
+Data used by this project can be obtained from the researcher's host:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 ## Column Names
 subject -- a unique integer identifying each data contributor<br>
 activity -- one of six possible activites a contributor can perform.<br>
